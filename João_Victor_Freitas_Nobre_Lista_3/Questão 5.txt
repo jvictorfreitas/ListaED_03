@@ -1,0 +1,3 @@
+um exemplo bem comum é o de  simular uma fila de banco ou qualquer tipo
+de agência para organizar a ordem de atendimento priorizando o primeiro que
+ chegou, se chegar mais alguém ela irá demorar mais tempo para ser atendida.

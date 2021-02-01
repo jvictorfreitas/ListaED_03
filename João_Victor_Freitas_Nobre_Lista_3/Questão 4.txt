@@ -1,0 +1,3 @@
+A estrutura de fila armazena dados de forma que o dado há mais tempo na
+estrutura é o primeiro a ser retirado. Uma pilha é uma estrutura de dados
+em que o acesso é restrito ao elemento mais recente na pilha.

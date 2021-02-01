@@ -1,0 +1,4 @@
+Pilha é uma estrutura de dados do tipo LIFO onde o último elemento
+a ser inserido, será o primeiro a ser retirado.Assim, uma pilha
+permite acesso a apenas um item de dados que é o último inserido.
+para processar o penúltimo item inserido, deve-se remover o útimo.
